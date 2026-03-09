@@ -1,2 +1,2 @@
-# Weather-API
+# patrick-open-api
 Weather API project
